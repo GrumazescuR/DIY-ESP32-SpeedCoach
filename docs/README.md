@@ -1,4 +1,4 @@
-# Documentation 
+# Documentation
 
 This folder contains the documentation for the DIY ESP32 SpeedCoach project.
 
@@ -8,5 +8,5 @@ Contents will include:
 - Hardware selection
 - System architecture
 - Design decisions
-- Testing log
+- Testing logs
 - Future improvements
